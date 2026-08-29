@@ -1,0 +1,7 @@
+{
+  "name": "KisanSetu",
+  "description": "Smart India Hackathon farmer-side smart procurement platform with live queue tracking, slot booking, smart weather & farmer advisory, multi-lingual regional voice support, AI procurement assistant, crop yield history, and payment tracking.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
